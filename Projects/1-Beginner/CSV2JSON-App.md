@@ -2,7 +2,7 @@
 
 **Tier:** 1-Beginner
 
-In the [JSON2CSV](./JSON2CSV-App.md) application you translated JSON 
+In the JSON2CSV application you translated JSON 
 to a comma separated value (CSV) format. The objective of CSV2JSON is to 
 reverse that process by converting a block of CSV text to JSON.
 
@@ -45,15 +45,3 @@ conversion.
 -   [ ] User can see a warning message if the JSON file is not found
 -   [ ] User can click a 'Save JSON' button to save the JSON file to the  file entered in the same text box used for opening the JSON file
 -   [ ] User can see a warning message if the JSON text box is empty or if the save operation failed.
-
-## Useful links and resources
-
-- [Comma Separated Values (CSV)](https://en.wikipedia.org/wiki/Comma-separated_values)
-- [JavaScript Object Notation (JSON)](https://www.json.org/)
-- [Saving a file with pure JS](https://codepen.io/davidelrizzo/pen/cxsGb)
-- [Reading files in Javascript](https://codepen.io/jduprey/details/xbale)
-
-## Example projects
-
-- [CSV to JSON Converter](https://codepen.io/JFarrow/pen/CAwyo)
-- [JSV Converter](https://gpaiva00.github.io/json-csv)
