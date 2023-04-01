@@ -45,18 +45,3 @@ currently displayed.
 allows floating point numbers up to 3 places to be entered and operations to
 be carried out to the maximum number of decimal places entered for any one
 number.
-
-## Useful links and resources
-
-- [Calculator (Wikipedia)](https://en.wikipedia.org/wiki/Calculator)
-- [MDN](https://developer.mozilla.org/en-US/)
-
-## Example projects
-
-- [BHMBS - JS-Neumorphic-Calculator](https://barhouum7.github.io/JS-Neumorphic-Calc.github.io/)
-- [Javascript iOS Style Calculator](https://codepen.io/ssmkhrj/full/jOWBQqO)
-- [Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
-- [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
-- [Javascript-CALC](https://github.com/x0uter/javascript-calc)
-- [Sample Calculator](https://sevlasnog.github.io/sample-calculator)
-- [Python Calculator](https://github.com/kana800/Side-Projects/tree/master/1-Beginner/calculator)
